@@ -1,0 +1,11 @@
+struct Player
+    win: bool
+    gameover: bool
+    godmode: bool
+    score: int
+    money: int
+    gunReload: float
+    gunPower: float
+    shellSelfDestruct: float
+    gunAngle: float
+    playtime: float
